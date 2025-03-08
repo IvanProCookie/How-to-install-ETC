@@ -8,36 +8,43 @@
 # How to Install Stremio  
 
 ## 1. Installing Stremio  
-### 1.1. Download the app  
-- Go to the official website:  
-  - [https://www.stremio.com](https://www.stremio.com).
-- Scroll down to the [Play Store section](https://www.stremio.com/#stremio-on-tv-mascot), and click the **"Play Store"** button.
-- Install the app.
+- ### 1.1. Download the app  
+  - Go to the official website:  
+    - [https://www.stremio.com](https://www.stremio.com).
+  - Scroll down to the [Play Store section](https://www.stremio.com/#stremio-on-tv-mascot), and click the **"Play Store"** button.
+  - Install the app.
 
-### 1.2. Use the website version (No installation required)  
-- Go to: [https://web.stremio.com](https://web.stremio.com).  
+- ### 1.2. Use the website version
+  (*No installation required*)  
+  - Go to: [https://web.stremio.com](https://web.stremio.com).  
 
-## 2. Installing the Torrentio Addon  
-### 2.1. For the App  
-- Click on the search bar and paste the following URL:  
-  - [https://torrentio.strem.fun/sort=qualitysize/manifest.json](https://torrentio.strem.fun/sort=qualitysize/manifest.json).  
+## 2. Installing the Torrentio Addon
+- ### 2.1. For the App  
+  - Click on the search bar at the top.
+  - Paste the following URL:  
+    - [https://torrentio.strem.fun/sort=qualitysize/manifest.json](https://torrentio.strem.fun/sort=qualitysize/manifest.json).
+  - Press **Enter**.
+  - Click the **Install** button.
 
-### 2.2. For the Website  
-- Go to the **Add-ons** section (bottom-right of the page).  
-- Click on the **"+ Add addon"** button.  
-- Paste the URL from step **2.1** into the field.  
-- Press **Enter**.  
-- Click **Install** (Note: This doesn’t install anything on your device; it just modifies the app/website settings).  
+- ### 2.2. For the Website  
+  - Go to the **Addons** section (at the bottom-right of the page).  
+  - Click on the **"+ Add addon"** button.  
+  - Paste the URL from step **2.1** into the field.  
+  - Press **Enter**.  
+  - Click the **Install** button.  
 
-### 2.3. Changing Torrentio Settings  
-- Go to the **Addons** page.  
-- Ignore the NSFW add-ons.  
-- Search for **"Torrentio"** in the search bar.  
-- Press **Enter**.  
-- To configure:  
-  - **App version**: Click the **"Configure"** button.  
-  - **Website version**: Click the **gear icon** to the left of the grayed-out **"Install"** button.  
-- Adjust any settings you want. If you're unsure what they do, it's best to leave them as they are.  
+  (*Note: The **Install** Button(s) doesn’t/don't actually install anything on your device; it just modifies the app/website's settings*)  
+
+- ### 2.3. Changing The Torrentio Addon's Settings  
+  - Go to the **Addons** page.  
+  - (*You can ignore the NSFW add-ons*).  
+  - Search for **"Torrentio"** in the search bar.  
+  - Press **Enter**.  
+  - To configure:  
+    - **For the App**: Click the big **"Configure"** button.  
+    - **For the Website**: Click the **gear icon** to the left of the grayed-out **"Install"** button.  
+
+    Adjust any settings you want. If you're unsure what they do, it's best to leave them as they are.  
 
 ## 3. Enjoy!  
 - I highly recommend exploring the app/website, especially the **Settings** and **Addons** pages!.:3  
@@ -64,7 +71,7 @@
 - Choose whether to connect to **Spotify** or browse anonymously. (more said about this later!)  
 
 ## 4. Important Notes About Spotify Connection  
-### 4.1. If you connect to Spotify:  
+- ### 4.1. If you connect to Spotify:  
 - Any changes made to playlists will transfer to your Spotify account, including:  
   - Adding/removing songs from playlists or liked songs.  
   - Renaming or deleting playlists.  
@@ -74,10 +81,10 @@
   - Organizing songs into folders.  
 - **This isn't a bad thing, just something to be aware of.**  
 
-### 4.2. If you don't want this:  
-- You can **log out of Spotify** from the settings menu.  
-- Logging out prevents any changes from syncing to Spotify while still allowing you to use SpoTube.  
-- Logging out is the same as using **Anonymous Mode** I'm pretty sure?.:3  
+- ### 4.2. If you don't want what'slisted above:  
+- You can click the **log out** (of Spotify) button in the settings menu.  
+- Logging out doesn’t change anything in Spotify, it just makes it so that you can use SpoTube without it syncing to Spotify, (I don't know if all the data, playlists, artists, albums, will stay, but you can always connect it back?).
+- Logging out is the same as using **Anonymous Mode**, I'm pretty sure?.:3  
 
 ## 5. Pros/Cons:
 - ### 5.1. Pros
@@ -108,7 +115,7 @@
 
 ---
 
-**The download links to the *`.apk`* files for all of the apps featured above can also be found here:**  
+**The download links to the `.apk` files for all of the apps featured above can also be found here:**  
 - **[Stremio (Arm)](https://dl.strem.io/android/v1.6.13-com.stremio.one/com.stremio.one-1.6.13-2111688-armeabi-v7a.apk)**  
 - **[SpoTube (Arch?)](https://github.com/KRTirtho/Spotube/releases/latest/download/Spotube-android-all-arch.apk)**  
 
@@ -120,5 +127,5 @@
 
 ---
 
-- ### ***Be Gay, Do Crime***
+- ### ***Be Gay, Do Crime!***
 **Copyleft 2026**
