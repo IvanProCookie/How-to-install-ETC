@@ -122,8 +122,7 @@
 [][][\_][] [][][\_] [][\_][] [][\_][] [][] [][][] []
 
 **For any more help, please feel free to contact us (Me, Myself & I) below!.:**  
-- **Email:** ivanprocookie@gmail.com  
-- **Phone:** [(518) 509-3636](tele:518-509-3636).
+- **Email:** ipc@mailhole.de  
 
 ---
 
