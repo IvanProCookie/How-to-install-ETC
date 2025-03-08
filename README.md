@@ -1,3 +1,10 @@
+##
+## ***Table Of Contents*:**  
+- ### [Stremio](#how-to-install-stremio)  
+- ### [Spotube](#how-to-install-spotube)  
+
+---
+
 # How to Install Stremio  
 
 ## 1. Installing Stremio  
@@ -53,8 +60,8 @@
 - Open the app.  
 
 ## 3. Setting Up SpoTube  
-- Follow the on-screen instructions, or press **"Skip This Nonsense"** in the top-right corner.  
-- Choose whether to connect **Spotify** or browse anonymously.  
+- Follow the on-screen instructions, or press **"Skip This Nonsense"** button in the top-right hand corner.  
+- Choose whether to connect to **Spotify** or browse anonymously. (more said about this later!)  
 
 ## 4. Important Notes About Spotify Connection  
 ### 4.1. If you connect to Spotify:  
@@ -72,15 +79,46 @@
 - Logging out prevents any changes from syncing to Spotify while still allowing you to use SpoTube.  
 - Logging out is the same as using **Anonymous Mode** I'm pretty sure?.:3  
 
-## 5. Enjoy!  
+## 5. Pros/Cons:
+- ### 5.1. Pros
+  - It's completely free with no *in-app* purchases.  
+  - You can download the tracks for offline listening, and they save to a folder (/emulated/0/downloads/Spotube/ by default) that you can access, (and so you can move the track(s) to another drive, (e.g, a USB stick, an MP3 player, a Computer)!)
+  - No Ads through-out the entire app or any of the tracks **at all**!
+  - Synced Lyrics on *most* tracks, and even some local tracks (if they support it)!
+  - Statistics that tell you about your listening and other stuff/things, like how much you saved if you were to pay for Spotify and *support the artists*.
+  - ***Really*** simple user-interface.
+  - The ability to use not just YouTube(Music) for streaming, but also Piped, Invidious, and some other -end I forgot!
+  - ***I use it!***
+  - *And more..!*
+
+- ### 5.2. Cons
+  - The music selection might be a *tad* bit smaller than Spotify, but idk.  
+  - You can't listen to Podcasts on it.
+  - You can't watch any shows on it.
+  - You can't look at **Song Previews** on it..: (  
+  - You can't use Spotify's **"Jam"** feature.  
+  - You can't really interact with your *non-artist* **followers** and **following**.  
+  - It has *quite a few* bugs.
+  - Listening to the music doesn't support any of the creators/artists.
+  - *And probably more...*
+
+
+## 6. Enjoy!  
 - I highly recommend exploring the app, especially the **Settings** and **Statistics** pages!.;3  
 
 ---
 
 **The download links to the *`.apk`* files for all of the apps featured above can also be found here:**  
-- **[Stremio (Arm)](https://dl.strem.io/android/v1.6.13-com.stremio.one/com.stremio.one-1.6.13-2111688-armeabi-v7a.apk)**
-- **[SpoTube](https://github.com/KRTirtho/Spotube/releases/latest/download/Spotube-android-all-arch.apk)**
+- **[Stremio (Arm)](https://dl.strem.io/android/v1.6.13-com.stremio.one/com.stremio.one-1.6.13-2111688-armeabi-v7a.apk)**  
+- **[SpoTube (Arch?)](https://github.com/KRTirtho/Spotube/releases/latest/download/Spotube-android-all-arch.apk)**  
 
-**For more help, feel free to contact us, (Me, Myself & I):**  
+[][][\_][] [][][\_] [][\_][] [][\_][] [][] [][][] []
+
+**For any more help, please feel free to contact us (Me, Myself & I) below!.:**  
 - **Email:** ivanprocookie@gmail.com  
-- **Phone:** (518) 509-3636.
+- **Phone:** [(518) 509-3636](tele:518-509-3636).
+
+---
+
+- ### ***Be Gay, Do Crime***
+**Copyleft 2026**
