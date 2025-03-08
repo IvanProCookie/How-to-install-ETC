@@ -2,26 +2,28 @@
 
 ## 1. Installing Stremio  
 ### 1.1. Download the app  
-- Go to the official website and scroll down to the Play Store section:  
-  - [https://www.stremio.com](https://www.stremio.com)  
+- Go to the official website:  
+  - [https://www.stremio.com](https://www.stremio.com).
+- Scroll down to the [Play Store section](https://www.stremio.com/#stremio-on-tv-mascot), and click the **"Play Store"** button.
+- Install the app.
 
 ### 1.2. Use the website version (No installation required)  
-- Go to: [https://web.stremio.com](https://web.stremio.com)  
+- Go to: [https://web.stremio.com](https://web.stremio.com).  
 
 ## 2. Installing the Torrentio Addon  
 ### 2.1. For the App  
 - Click on the search bar and paste the following URL:  
-  - [https://torrentio.strem.fun/sort=qualitysize/manifest.json](https://torrentio.strem.fun/sort=qualitysize/manifest.json)  
+  - [https://torrentio.strem.fun/sort=qualitysize/manifest.json](https://torrentio.strem.fun/sort=qualitysize/manifest.json).  
 
 ### 2.2. For the Website  
 - Go to the **Add-ons** section (bottom-right of the page).  
-- Click on the **"+ Add Addon"** button.  
+- Click on the **"+ Add addon"** button.  
 - Paste the URL from step **2.1** into the field.  
 - Press **Enter**.  
 - Click **Install** (Note: This doesn’t install anything on your device; it just modifies the app/website settings).  
 
 ### 2.3. Changing Torrentio Settings  
-- Go to the **Add-ons** page.  
+- Go to the **Addons** page.  
 - Ignore the NSFW add-ons.  
 - Search for **"Torrentio"** in the search bar.  
 - Press **Enter**.  
@@ -31,7 +33,7 @@
 - Adjust any settings you want. If you're unsure what they do, it's best to leave them as they are.  
 
 ## 3. Enjoy!  
-- I highly recommend exploring the app/website, especially the **Settings** and **Add-ons** pages! :3  
+- I highly recommend exploring the app/website, especially the **Settings** and **Addons** pages!.:3  
 
 ---
 
@@ -40,9 +42,9 @@
 
 ## 1. Downloading SpoTube  
 - Go to the official website:  
-  - [https://spotube.krtirtho.dev](https://spotube.krtirtho.dev)  
+  - [https://spotube.krtirtho.dev](https://spotube.krtirtho.dev).  
 - Visit the downloads page:  
-  - [https://spotube.krtirtho.dev/downloads](https://spotube.krtirtho.dev/downloads)  
+  - [https://spotube.krtirtho.dev/downloads](https://spotube.krtirtho.dev/downloads).  
 - Click **"Install for Android"** (should be the first button).  
 
 ## 2. Installing SpoTube  
@@ -68,13 +70,17 @@
 ### 4.2. If you don't want this:  
 - You can **log out of Spotify** from the settings menu.  
 - Logging out prevents any changes from syncing to Spotify while still allowing you to use SpoTube.  
-- Logging out is essentially the same as using **Anonymous Mode**.  
+- Logging out is the same as using **Anonymous Mode** I'm pretty sure?.:3  
 
 ## 5. Enjoy!  
 - I highly recommend exploring the app, especially the **Settings** and **Statistics** pages!.;3  
 
 ---
 
-**For more help, feel free to contact us, (Me, Myself & I), at:**  
+**The download links to the *`.apk`* files for all of the apps featured above can also be found here:**  
+- **[Stremio (Arm)](https://dl.strem.io/android/v1.6.13-com.stremio.one/com.stremio.one-1.6.13-2111688-armeabi-v7a.apk)**
+- **[SpoTube](https://github.com/KRTirtho/Spotube/releases/latest/download/Spotube-android-all-arch.apk)**
+
+**For more help, feel free to contact us, (Me, Myself & I):**  
 - **Email:** ivanprocookie@gmail.com  
 - **Phone:** (518) 509-3636.
